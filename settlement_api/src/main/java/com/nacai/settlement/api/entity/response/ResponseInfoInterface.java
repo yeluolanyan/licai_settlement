@@ -1,0 +1,1 @@
+package com.nacai.settlement.api.entity.response;/** * Created by shan on 2018/6/4. */public interface ResponseInfoInterface {    String getCode();    String getMsg();}
